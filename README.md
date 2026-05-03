@@ -18,6 +18,23 @@ I build systems where AI is a first-class primitive, not a checkbox feature. Rig
 
 ---
 
+## projects (products)
+
+### ai-trading-framework
+Open-source AI trading workflow engine built for approval-first execution.
+
+- replayable workflows
+- Telegram ops
+- pluggable broker adapters
+
+**Stack:** Python, async workflows
+
+### oh-no-my-claudecode
+Repo-native memory + context compiler for coding agents.
+
+- persistent agent memory
+- context reconstruction across sessions
+- long-horizon reasoning support
 
 ---
 
@@ -34,20 +51,26 @@ I build systems where AI is a first-class primitive, not a checkbox feature. Rig
 ## stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adaline-ankit&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adaline-ankit&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src='https://github-readme-stats.vercel.app/api?username=adaline-ankit&show_icons=true&theme=tokyonight&hide_border=true'/>
+  <img src='https://github-readme-streak-stats.herokuapp.com?user=adaline-ankit&theme=tokyonight&hide_border=true'/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adaline-ankit&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=adaline-ankit&layout=compact&theme=tokyonight&hide_border=true'/>
 </p>
+
+---
+
+## Tokscale stats
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/adaline-ankit/svg?view=3d)](https://tokscale.ai/u/adaline-ankit)
 
 ---
 
 ## contribution snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adaline-ankit/adaline-ankit/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+  <img src='https://raw.githubusercontent.com/adaline-ankit/adaline-ankit/output/github-contribution-grid-snake-dark.svg'/>
 </p>
 
 ---
@@ -55,12 +78,12 @@ I build systems where AI is a first-class primitive, not a checkbox feature. Rig
 ## stack
 
 ![Python](https://img.shields.io/badge/python-black?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/typescript-black?style=flat&logo=typescript)
-![PostgreSQL](https://img.shields.io/badge/postgres-black?style=flat&logo=postgresql)
-![Kafka](https://img.shields.io/badge/kafka-black?style=flat&logo=apachekafka)
-![Redis](https://img.shields.io/badge/redis-black?style=flat&logo=redis)
-![Docker](https://img.shields.io/badge/docker-black?style=flat&logo=docker)
-![GCP](https://img.shields.io/badge/gcp-black?style=flat&logo=googlecloud)
+![TypeScript](https://img.shields.io-badge/typescript-black?style=flat&logo=typescript)
+![PostgreSQL](https://img.shields.io-badge/postgres-black?style=flat&logo=postgresql)
+![Kafka](https://img.shields.io-badge/kafka-black?style=flat&logo=apachekafka)
+![Redis](https://img.shields.io-badge/redis-black?style=flat&logo=redis)
+![Docker](https://img.shields.io-badge/docker-black?style=flat&logo=docker)
+![GCP](https://img.shields.io-badge/gcp-black?style=flat&logo=googlecloud)
 
 ---
 
