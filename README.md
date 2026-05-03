@@ -18,26 +18,6 @@ I build systems where AI is a first-class primitive, not a checkbox feature. Rig
 
 ---
 
-## projects (products)
-
-### ai-trading-framework
-Open-source AI trading workflow engine built for approval-first execution.
-
-- replayable workflows
-- Telegram ops
-- pluggable broker adapters
-
-**Stack:** Python, async workflows
-
-### oh-no-my-claudecode
-Repo-native memory + context compiler for coding agents.
-
-- persistent agent memory
-- context reconstruction across sessions
-- long-horizon reasoning support
-
----
-
 ## philosophy
 
 - systems > scripts
@@ -80,8 +60,8 @@ Repo-native memory + context compiler for coding agents.
 ![Python](https://img.shields.io/badge/python-black?style=flat&logo=python)
 ![TypeScript](https://img.shields.io-badge/typescript-black?style=flat&logo=typescript)
 ![PostgreSQL](https://img.shields.io-badge/postgres-black?style=flat&logo=postgresql)
-![Kafka](https://img.shields.io-badge/kafka-black?style=flat&logo=apachekafka)
-![Redis](https://img.shields.io-badge/redis-black?style=flat&logo=redis)
+![Kafka](https://img.shields.io/badge/kafka-black?style=flat&logo=apachekafka)
+![Redis](https://img.shields.io/badge/redis-black?style=flat&logo=redis)
 ![Docker](https://img.shields.io-badge/docker-black?style=flat&logo=docker)
 ![GCP](https://img.shields.io-badge/gcp-black?style=flat&logo=googlecloud)
 
