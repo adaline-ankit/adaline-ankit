@@ -18,25 +18,6 @@ I build systems where AI is a first-class primitive, not a checkbox feature. Rig
 
 ---
 
-## projects (as products)
-
-### **ai-trading-framework**
-**What it is:** open-source AI trading workflow engine built for approval-first execution.
-
-- replayable workflows
-- Telegram ops
-- pluggable broker adapters
-
-**Stack:** Python, async workflows
-
----
-
-### **oh-no-my-claudecode**
-**What it is:** repo-native memory + context compiler for coding agents.
-
-- persistent agent memory
-- context reconstruction across sessions
-- long-horizon reasoning support
 
 ---
 
