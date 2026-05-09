@@ -1,32 +1,4 @@
-# Ankit Prasad — systems & AI infra
-
-```bash
-> shipping agentic systems + backend infra
-> strengths: LLM platforms, observability, distributed systems
-```
-
----
-
-## about
-
-I build systems where AI is a first-class primitive, not a checkbox feature. Right now I'm focused on:
-
-- provider-agnostic LLM execution layers
-- eval pipelines (LLM-as-a-judge + feedback loops)
-- async architectures + pub/sub workflows
-- agent memory + context reconstruction
-
----
-
-## philosophy
-
-- systems > scripts
-- observability is a product feature
-- design for failure, not success
-- deterministic guardrails for non-deterministic models
-- performance is a constraint, not a phase
-
----
+# Ankit Prasad
 
 ## stats
 
