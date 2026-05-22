@@ -1,23 +1,5 @@
 # Ankit Prasad
 
-## stats
-
-<p align="center">
-  <img src='https://github-readme-stats.vercel.app/api?username=adaline-ankit&show_icons=true&theme=tokyonight&hide_border=true'/>
-  <img src='https://github-readme-streak-stats.herokuapp.com?user=adaline-ankit&theme=tokyonight&hide_border=true'/>
-</p>
-
-<p align="center">
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=adaline-ankit&layout=compact&theme=tokyonight&hide_border=true'/>
-</p>
-
----
-
-## Tokscale stats
-
-[![Tokscale Stats](https://tokscale.ai/api/embed/adaline-ankit/svg?view=3d)](https://tokscale.ai/u/adaline-ankit)
-
----
 
 ## contribution snake
 
